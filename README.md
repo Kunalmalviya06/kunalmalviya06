@@ -1,4 +1,4 @@
-![logo](https://github.com/0111rajankit/0111rajankit/blob/main/ankit_raj.png)
+![logo](https://github.com/Kunalmalviya06/kunalmalviya06/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Kunal Malviya</h1>
 <h3 align="center">Driven and analytical Data Analyst with 1+ years of experience, leveraging expertise in Excel, Power BI, Tableau, and SQL to transform data into actionable insights. Proven ability to gather, clean, analyze, and visualize data to support informed decision-making across various business functions. Possesses strong analytical skills, excellent communication, and a passion for extracting hidden value from information.</h3>
 
@@ -11,9 +11,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kunalmalviya06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitrajmishra" height="30" width="40" /></a>
-<a href="https://kaggle.com/ankitrajmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ankitrajmishra" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/0111rajaankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="0111rajaankit" height="30" width="40" /></a>
-<a href="https://discord.gg/lucifer2459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lucifer2459" height="30" width="40" /></a>
+<a href="https://kaggle.com/kunalmalviya06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ankitrajmishra" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kunalmalviya558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="0111rajaankit" height="30" width="40" /></a>
+<a href="https://discord.gg/kunalmalviya06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lucifer2459" height="30" width="40" /></a>
 </p>
 
 
