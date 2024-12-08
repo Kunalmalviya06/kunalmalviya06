@@ -1,4 +1,4 @@
-![logo](https://github.com/Kunalmalviya06/kunalmalviya06/blob/main/Banner2.png)
+![logo](https://github.com/Kunalmalviya06/kunalmalviya06/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Kunal Malviya</h1>
 <h3 align="center">Driven and analytical Data Analyst with 6+ Months of experience, leveraging expertise in Excel, Power BI, Tableau, and SQL to transform data into actionable insights. Proven ability to gather, clean, analyze, and visualize data to support informed decision-making across various business functions. Possesses strong analytical skills, excellent communication, and a passion for extracting hidden value from information.</h3>
 
